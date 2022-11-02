@@ -1,0 +1,224 @@
+location,iso_code,vaccines,last_observation_date,source_name,source_website,CanSino,Covaxin,Johnson&Johnson,Moderna,Oxford/AstraZeneca,Sinopharm/Beijing,Sinopharm/Beijing,Sinovac,Sputnik Light,Sputnik V,Pfizer/BioNTech,EpiVacCorona,Sinopharm/Wuhan
+Afghanistan,AFG,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/24/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Albania,ALB,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",10/16/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,1,0,1,1,0,0
+Algeria,DZA,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",9/4/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,1,1,1,0,1,0,0,0
+Andorra,AND,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/16/22,World Health Organization,https://covid19.who.int/,0,0,0,1,1,0,0,0,0,0,1,0,0
+Angola,AGO,Oxford/AstraZeneca,10/16/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,0,0,0,0,0,0
+Anguilla,AIA,"Oxford/AstraZeneca, Pfizer/BioNTech",10/21/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,0,0,0,1,0,0
+Antigua and Barbuda,ATG,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/16/22,Ministry of Health,https://covid19.who.int/,0,0,1,0,1,1,1,0,0,1,1,0,0
+Argentina,ARG,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",10/29/22,Ministry of Health,https://covidstats.com.ar/,1,0,0,1,1,1,1,0,0,1,1,0,0
+Armenia,ARM,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac, Sputnik Light, Sputnik V",5/22/22,World Health Organization,https://covid19.who.int/,0,0,0,1,1,1,1,1,1,1,1,0,1
+Aruba,ABW,Pfizer/BioNTech,10/28/22,Government of Aruba,https://www.government.aw,0,0,0,0,0,0,0,0,0,0,1,0,0
+Australia,AUS,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",9/28/22,Government of Australia via CovidBaseAU,https://covid19.who.int/,0,0,1,1,1,0,0,0,0,0,1,0,0
+Austria,AUT,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/28/22,European CDC,https://info.gesundheitsministerium.gv.at/data/COVID19_vaccination_doses_timeline_v202206.csv,0,0,1,1,1,0,0,0,0,0,1,0,0
+Azerbaijan,AZE,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",8/28/22,Government of Azerbaijan,https://koronavirusinfo.az,0,0,0,0,1,0,0,1,0,1,1,0,0
+Bahamas,BHS,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",10/21/22,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,0,0,1,0,1,0,0,0,0,0,1,0,0
+Bahrain,BHR,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",10/29/22,Ministry of Health,https://healthalert.gov.bh/en/,0,0,0,0,1,1,1,0,0,1,1,0,0
+Bangladesh,BGD,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",10/29/22,Directorate General of Health Services,http://103.247.238.92/webportal/pages/covid19-vaccination-update.php,0,0,1,1,1,1,1,1,0,0,1,0,0
+Barbados,BRB,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",10/14/22,Ministry of Health,https://covid19.who.int/,0,0,1,0,1,1,1,0,0,0,1,0,0
+Belarus,BLR,"KoviVac/Chumakov, Sinopharm/Beijing, Sputnik Light, Sputnik V",10/16/22,World Health Organization,https://covid19.who.int/,0,0,0,0,0,1,1,0,1,1,0,0,0
+Belgium,BEL,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/25/22,Sciensano,https://epistat.wiv-isp.be/covid/,0,0,1,1,1,0,0,0,0,0,1,0,0
+Belize,BLZ,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",10/28/22,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,0,0,1,0,1,1,1,0,0,0,1,0,0
+Benin,BEN,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",10/16/22,Ministry of Health,https://covid19.who.int/,0,0,1,0,1,0,0,1,0,0,1,0,0
+Bermuda,BMU,"Oxford/AstraZeneca, Pfizer/BioNTech",7/8/22,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,0,0,0,0,1,0,0,0,0,0,1,0,0
+Bhutan,BTN,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",10/23/22,World Health Organization,https://covid19.who.int/,0,0,0,1,1,1,1,0,0,0,1,0,0
+Bolivia,BOL,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",10/7/22,Ministry of Health via https://www.boligrafica.com/,https://github.com/dquintani/vacunacion/,0,0,1,0,1,1,1,0,0,1,1,0,0
+Bonaire Sint Eustatius and Saba,BES,"Moderna, Pfizer/BioNTech",9/1/21,World Health Organization,https://www.rivm.nl/sites/default/files/2021-09/COVID-19_website_rapport_eilanden_engels_35_20210902_1409.pdf,0,0,0,1,0,0,0,0,0,0,1,0,0
+Bosnia and Herzegovina,BIH,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",1/29/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,1,0,1,1,0,0
+Botswana,BWA,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",10/2/22,Africa Centres for Disease Control and Prevention,https://covid19.who.int/,0,1,1,1,1,0,0,1,0,0,1,0,0
+Brazil,BRA,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",10/28/22,State governments via coronavirusbra1.github.io,https://coronavirusbra1.github.io,0,0,1,0,1,0,0,1,0,0,1,0,0
+British Virgin Islands,VGB,"Johnson&Johnson, Oxford/AstraZeneca",9/16/22,World Health Organization,https://covid19.who.int/,0,0,1,0,1,0,0,0,0,0,0,0,0
+Brunei,BRN,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",10/7/22,World Health Organization,https://covid19.who.int/,0,0,1,1,1,1,1,0,0,0,1,0,0
+Bulgaria,BGR,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/29/22,Ministry of Health,https://coronavirus.bg/bg/statistika,0,0,1,1,1,0,0,0,0,0,1,0,0
+Burkina Faso,BFA,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",10/2/22,World Health Organization,https://covid19.who.int/,0,0,1,0,1,1,1,0,0,0,0,0,0
+Burundi,BDI,"Johnson&Johnson, Sinopharm/Beijing",10/16/22,World Health Organization,https://covid19.who.int/,0,0,1,0,0,1,1,0,0,0,0,0,0
+Cambodia,KHM,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",10/14/22,World Health Organization,https://covid19.who.int/,0,0,1,1,1,1,1,1,0,0,1,0,0
+Cameroon,CMR,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",10/9/22,World Health Organization,https://covid19.who.int/,0,0,1,0,1,1,1,0,0,0,1,0,0
+Canada,CAN,"Johnson&Johnson, Medicago, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/28/22,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html,0,0,1,1,1,0,0,0,0,0,1,0,0
+Cape Verde,CPV,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",9/25/22,World Health Organization,https://covid19.who.int/,0,0,0,1,1,1,1,0,0,0,1,0,0
+Cayman Islands,CYM,"Oxford/AstraZeneca, Pfizer/BioNTech",10/7/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,0,0,0,1,0,0
+Central African Republic,CAF,"Covaxin, Oxford/AstraZeneca",10/16/22,Africa Centres for Disease Control and Prevention,https://covid19.who.int/,0,1,0,0,1,0,0,0,0,0,0,0,0
+Chad,TCD,Sinopharm/Beijing,10/2/22,Africa Centres for Disease Control and Prevention,https://covid19.who.int/,0,0,0,0,0,1,1,0,0,0,0,0,0
+Chile,CHL,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",10/28/22,"Ministry of Health, via Ministry of Science GitHub repository",https://github.com/MinCiencia/Datos-COVID19,1,0,0,1,1,0,0,1,0,0,1,0,0
+China,CHN,"CanSino, IMBCAMS, KCONVAC, Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac, ZF2001",10/28/22,National Health Commission,http://www.nhc.gov.cn/jkj/s7915/202210/0b8c6423c46644e0ae793d3fb68a09cd.shtml,1,0,0,0,0,1,1,1,0,0,0,0,1
+Colombia,COL,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",10/21/22,World Health Organization,https://covid19.who.int/,0,0,1,1,1,0,0,1,0,0,1,0,0
+Comoros,COM,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing",10/2/22,World Health Organization,https://covid19.who.int/,0,1,0,0,1,1,1,0,0,0,0,0,0
+Congo,COG,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",7/31/22,Africa Centres for Disease Control and Prevention,https://covid19.who.int/,0,0,0,1,1,1,1,0,0,1,0,0,0
+Cook Islands,COK,Pfizer/BioNTech,6/6/22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Costa Rica,CRI,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/21/22,Costa Rican Social Security Fund,https://covid19.who.int/,0,0,0,1,1,0,0,0,0,0,1,0,0
+Cote d'Ivoire,CIV,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/18/22,World Health Organization,https://covid19.who.int/,0,0,1,0,1,1,1,0,0,1,1,0,0
+Croatia,HRV,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/28/22,Ministry of Health,https://www.koronavirus.hr,0,0,1,1,1,0,0,0,0,0,1,0,0
+Cuba,CUB,"Abdala, Soberana Plus, Soberana02",10/27/22,Ministry of Health,https://salud.msp.gob.cu/actualizacion-de-la-vacunacion-en-el-marco-de-los-estudios-de-los-candidatos-vacunales-cubanos-y-la-intervencion-sanitaria/,0,0,0,0,0,0,0,0,0,0,0,0,0
+Curacao,CUW,"Moderna, Pfizer/BioNTech",10/28/22,Government of Curacao,https://bakuna.cw/,0,0,0,1,0,0,0,0,0,0,1,0,0
+Cyprus,CYP,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",9/27/22,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5,0,0,1,1,1,0,0,0,0,0,1,0,0
+Czechia,CZE,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",10/29/22,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19,0,0,1,1,1,0,0,1,0,0,1,0,0
+Democratic Republic of Congo,COD,Oxford/AstraZeneca,10/16/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,0,0,0,0,0,0
+Denmark,DNK,"Johnson&Johnson, Moderna, Pfizer/BioNTech",10/27/22,Statens Serum Institute,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata,0,0,1,1,0,0,0,0,0,0,1,0,0
+Djibouti,DJI,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/20/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Dominica,DMA,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",10/7/22,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,0,0,0,1,1,1,1,0,0,0,1,0,0
+Dominican Republic,DOM,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",10/28/22,Ministry of Public Health,https://vacunate.gob.do,0,0,0,0,1,1,1,1,0,0,1,0,0
+Ecuador,ECU,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",8/22/22,Government of Ecuador via Ecuacovid,https://github.com/andrab/ecuacovid,1,0,0,0,1,0,0,1,0,0,1,0,0
+Egypt,EGY,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/23/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+El Salvador,SLV,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",10/2/22,Ministry of Health,https://covid19.gob.sv/,0,0,0,0,1,1,1,1,0,0,1,0,0
+England,OWID_ENG,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/23/22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,0,0,0,1,1,0,0,0,0,0,1,0,0
+Equatorial Guinea,GNQ,"Sinopharm/Beijing, Sinovac",7/24/22,World Health Organization,https://covid19.who.int/,0,0,0,0,0,1,1,1,0,0,0,0,0
+Estonia,EST,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/24/22,National Health Board,https://opendata.digilugu.ee,0,0,1,1,1,0,0,0,0,0,1,0,0
+Eswatini,SWZ,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",9/25/22,World Health Organization,https://covid19.who.int/,0,0,1,0,1,0,0,0,0,0,1,0,0
+Ethiopia,ETH,"Covaxin, Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",7/31/22,World Health Organization,https://covid19.who.int/,0,1,1,0,1,1,1,1,0,0,0,0,0
+Faeroe Islands,FRO,"Moderna, Pfizer/BioNTech",2/18/22,Government of the Faeroe Islands,https://corona.fo/api,0,0,0,1,0,0,0,0,0,0,1,0,0
+Falkland Islands,FLK,Oxford/AstraZeneca,4/14/21,Government of the Falkland Islands,https://www.facebook.com/FalkIandsGov/posts/4401230323224594,0,0,0,0,1,0,0,0,0,0,0,0,0
+Fiji,FJI,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/24/22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,0,1,1,0,0,0,0,0,1,0,0
+Finland,FIN,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/26/22,Finnish Institute for Health and Welfare,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov,0,0,0,1,1,0,0,0,0,0,1,0,0
+France,FRA,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/27/22,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/,0,0,1,1,1,0,0,0,0,0,1,0,0
+French Polynesia,PYF,"Johnson&Johnson, Pfizer/BioNTech",10/17/22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Gabon,GAB,"Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/18/22,Africa Centres for Disease Control and Prevention,https://covid19.who.int/,0,0,0,0,0,1,1,0,0,1,1,0,0
+Gambia,GMB,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",8/7/22,Africa Centres for Disease Control and Prevention,https://covid19.who.int/,0,0,1,0,1,1,1,0,0,0,0,0,0
+Georgia,GEO,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",10/13/22,National Center for Disease Control and Public Health,https://vaccines.ncdc.ge/vaccinationprocess/,0,0,0,0,1,1,1,1,0,0,1,0,0
+Germany,DEU,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",10/28/22,Robert Koch Institut,https://impfdashboard.de/,0,0,1,1,1,0,0,0,0,0,1,0,0
+Ghana,GHA,"Oxford/AstraZeneca, Sputnik V",10/9/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,0,0,1,0,0,0
+Gibraltar,GIB,"Oxford/AstraZeneca, Pfizer/BioNTech",4/21/22,Government of Gibraltar,https://twitter.com/GibraltarGov/status/1517138573614477315,0,0,0,0,1,0,0,0,0,0,1,0,0
+Greece,GRC,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/29/22,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/,0,0,1,1,1,0,0,0,0,0,1,0,0
+Greenland,GRL,Moderna,3/7/22,Government of Greenland,https://corona.nun.gl,0,0,0,1,0,0,0,0,0,0,0,0,0
+Grenada,GRD,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",9/30/22,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,0,0,1,0,1,0,0,0,0,0,1,0,0
+Guatemala,GTM,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",10/28/22,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,0,0,0,1,1,0,0,0,0,1,1,0,0
+Guernsey,GGY,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",7/12/22,Government of Guernsey,https://covid19.gov.gg/guidance/vaccine/stats,0,0,0,1,1,0,0,0,0,0,1,0,0
+Guinea,GIN,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",10/16/22,National Health Security Agency,https://covid19.who.int/,0,0,1,0,1,1,1,1,0,1,1,0,0
+Guinea-Bissau,GNB,"Oxford/AstraZeneca, Sinopharm/Beijing",9/18/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,1,1,0,0,0,0,0,0
+Guyana,GUY,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",7/27/22,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,0,0,1,1,1,1,1,0,0,1,1,0,0
+Haiti,HTI,"Johnson&Johnson, Moderna",10/14/22,World Health Organization,https://covid19.who.int/,0,0,1,1,0,0,0,0,0,0,0,0,0
+Honduras,HND,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",10/28/22,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,0,0,1,1,1,0,0,0,0,1,1,0,0
+Hong Kong,HKG,"Pfizer/BioNTech, Sinovac",10/23/22,Food and Health Bureau,https://data.gov.hk/en-data/dataset/hk-fhb-fhbcovid19-vaccination-rates-over-time-by-age,0,0,0,0,0,0,0,1,0,0,1,0,0
+Hungary,HUN,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",10/25/22,Government of Hungary,https://koronavirus.gov.hu//cikkek/6-millio-419-ezer-beoltott-9-023-az-uj-fertozott-es-elhunyt-140-beteg,0,0,1,1,1,1,1,0,0,1,1,0,0
+Iceland,ISL,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",3/29/22,Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni,0,0,1,1,1,0,0,0,0,0,1,0,0
+India,IND,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",10/30/22,Government of India,https://dashboard.cowin.gov.in/,0,1,0,0,1,0,0,0,0,1,0,0,0
+Indonesia,IDN,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",10/24/22,Government of Indonesia,https://covid19.who.int/,0,0,1,1,1,1,1,1,0,0,1,0,0
+Iran,IRN,"COVIran Barekat, CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Soberana02, Sputnik Light, Sputnik V",10/23/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Iraq,IRQ,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/23/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Ireland,IRL,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/5/22,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/,0,0,1,1,1,0,0,0,0,0,1,0,0
+Isle of Man,IMN,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",6/23/22,Isle of Man Government,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,0,0,0,1,1,0,0,0,0,0,1,0,0
+Israel,ISR,"Moderna, Pfizer/BioNTech",10/28/22,Government of Israel,https://datadashboard.health.gov.il/COVID-19/general,0,0,0,1,0,0,0,0,0,0,1,0,0
+Italy,ITA,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/29/22,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv,0,0,1,1,1,0,0,0,0,0,1,0,0
+Jamaica,JAM,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/10/22,Ministry of Health,https://vaccination.moh.gov.jm,0,0,1,1,1,0,0,0,0,0,1,0,0
+Japan,JPN,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/30/22,Prime Minister's Office,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,0,0,0,1,1,0,0,0,0,0,1,0,0
+Jersey,JEY,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/23/22,Government of Jersey,https://www.gov.je/Datasets/ListOpenData?ListName=COVID19Weekly&clean=true,0,0,0,1,1,0,0,0,0,0,1,0,0
+Jordan,JOR,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",8/21/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Kazakhstan,KAZ,"QazVac, Sinopharm/Beijing, Sputnik V",10/26/22,Government of Kazakhstan,https://www.coronavirus2020.kz/,0,0,0,0,0,1,1,0,0,1,0,0,0
+Kenya,KEN,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",9/25/22,World Health Organization,https://covid19.who.int/,0,0,1,1,1,1,1,0,0,0,1,0,0
+Kiribati,KIR,Oxford/AstraZeneca,10/10/22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Kosovo,OWID_KOS,"Oxford/AstraZeneca, Pfizer/BioNTech",10/28/22,Ministry of Health,https://msh.rks-gov.net/sq/statistikat-covid-19/,0,0,0,0,1,0,0,0,0,0,1,0,0
+Kuwait,KWT,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/23/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Kyrgyzstan,KGZ,"Sinopharm/Beijing, Sputnik V",10/29/22,Ministry of Health,https://vc.emed.gov.kg/,0,0,0,0,0,1,1,0,0,1,0,0,0
+Laos,LAO,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",8/11/22,World Health Organization,https://www.covid19.gov.la/index.php,0,0,1,0,1,1,1,1,1,1,1,0,0
+Latvia,LVA,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",7/11/22,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas,0,0,1,1,1,0,0,0,0,0,1,0,0
+Lebanon,LBN,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/20/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Lesotho,LSO,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",7/17/22,World Health Organization,https://covid19.who.int/,0,0,1,0,1,1,1,0,0,0,0,0,0
+Liberia,LBR,Oxford/AstraZeneca,10/16/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,0,0,0,0,0,0
+Libya,LBY,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/2/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Liechtenstein,LIE,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",10/24/22,Federal Office of Public Health,https://opendata.swiss/en/dataset/covid-19-schweiz?detGeo=FL,0,0,1,1,0,0,0,0,0,0,1,0,0
+Lithuania,LTU,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/28/22,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/,0,0,1,1,1,0,0,0,0,0,1,0,0
+Luxembourg,LUX,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/23/22,Government of Luxembourg,https://data.public.lu/en/datasets/donnees-covid19/#_,0,0,1,1,1,0,0,0,0,0,1,0,0
+Macao,MAC,"Pfizer/BioNTech, Sinopharm/Beijing",9/15/22,Government of Macao,https://www.ssm.gov.mo/docs/19164/19164_7e53f06c68fc467d8e3e3374d09bcc1a_000_.pdf,0,0,0,0,0,1,1,0,0,0,1,0,0
+Madagascar,MDG,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",10/16/22,World Health Organization,https://covid19.who.int/,0,0,1,0,1,1,1,0,0,0,0,0,0
+Malawi,MWI,"Johnson&Johnson, Oxford/AstraZeneca",10/9/22,World Health Organization,https://covid19.who.int/,0,0,1,0,1,0,0,0,0,0,0,0,0
+Malaysia,MYS,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",10/29/22,Government of Malaysia,https://github.com/MoH-Malaysia/covid19-public,1,0,0,0,1,1,1,1,0,0,1,0,0
+Maldives,MDV,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",10/17/22,World Health Organization,https://covid19.who.int/,0,0,1,1,1,1,1,1,0,1,1,0,0
+Mali,MLI,Oxford/AstraZeneca,10/16/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,0,0,0,0,0,0
+Malta,MLT,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/28/22,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases,0,0,1,1,1,0,0,0,0,0,1,0,0
+Mauritania,MRT,"Oxford/AstraZeneca, Sinopharm/Beijing",10/9/22,Africa Centres for Disease Control and Prevention,https://covid19.who.int/,0,0,0,0,1,1,1,0,0,0,0,0,0
+Mauritius,MUS,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing",10/16/22,World Health Organization,https://covid19.who.int/,0,1,0,0,1,1,1,0,0,0,0,0,0
+Mexico,MEX,"CanSino, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",10/7/22,World Health Organization,https://covid19.who.int/,1,0,1,1,1,0,0,1,0,1,1,0,0
+Moldova,MDA,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",9/18/22,Ministry of Health,https://covid19.who.int/,0,0,1,1,1,1,1,1,0,1,1,0,0
+Monaco,MCO,Pfizer/BioNTech,12/21/21,National Council,https://en.gouv.mc/Policy-Practice/Social-Affairs-and-Health/News/Minister-of-State-visits-those-working-to-combat-COVID,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mongolia,MNG,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",5/18/22,Ministry of Health via ikon.mn,https://ikon.mn/,0,0,0,0,1,1,1,0,0,1,1,0,0
+Montenegro,MNE,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",8/26/22,Government of Montenegro,https://www.covidodgovor.me/,0,0,0,0,1,1,1,0,0,1,1,0,0
+Montserrat,MSR,Oxford/AstraZeneca,10/7/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,0,0,0,0,0,0
+Morocco,MAR,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/24/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Mozambique,MOZ,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",10/16/22,World Health Organization,https://covid19.who.int/,0,0,1,0,1,1,1,0,0,0,0,0,0
+Myanmar,MMR,"Oxford/AstraZeneca, Sinopharm/Beijing",6/18/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,1,1,0,0,0,0,0,0
+Namibia,NAM,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",10/16/22,Africa Centres for Disease Control and Prevention,https://covid19.who.int/,0,0,1,0,1,1,1,0,0,0,1,0,0
+Nauru,NRU,Oxford/AstraZeneca,10/17/22,World Health Organization,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Nepal,NPL,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",10/23/22,World Health Organization,https://covid19.who.int/,0,1,1,1,1,1,1,0,0,1,1,0,0
+Netherlands,NLD,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",9/2/22,"European CDC, via Marino van Zelst",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,0,0,1,1,1,0,0,0,0,0,1,0,0
+New Caledonia,NCL,Pfizer/BioNTech,10/24/22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,0,0,0,0,0,0,0,0,1,0,0
+New Zealand,NZL,"Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/4/22,Ministry of Health,https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data,0,0,0,0,1,0,0,0,0,0,1,0,0
+Nicaragua,NIC,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",10/28/22,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,0,0,1,0,1,0,0,0,1,1,1,0,0
+Niger,NER,"Oxford/AstraZeneca, Sinopharm/Beijing",10/16/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,1,1,0,0,0,0,0,0
+Nigeria,NGA,Oxford/AstraZeneca,10/16/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,0,0,0,0,0,0
+Niue,NIU,Pfizer/BioNTech,8/2/22,SPC Public Health Division,https://covid19.who.int/,0,0,0,0,0,0,0,0,0,0,1,0,0
+North Macedonia,MKD,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac, Sputnik V",10/9/22,World Health Organization,https://covid19.who.int/,0,0,0,1,1,1,1,1,0,1,1,0,1
+Northern Cyprus,OWID_CYN,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",11/26/21,Ministry of Health,https://asi.saglik.gov.ct.tr/,0,0,0,0,1,0,0,1,0,0,1,0,0
+Northern Ireland,OWID_NIR,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/26/22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,0,0,0,1,1,0,0,0,0,0,1,0,0
+Norway,NOR,"Moderna, Pfizer/BioNTech",10/27/22,Norwegian Institute of Public Health,https://github.com/folkehelseinstituttet/surveillance_data,0,0,0,1,0,0,0,0,0,0,1,0,0
+Oman,OMN,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/9/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Pakistan,PAK,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",10/24/22,National Command and Operation Centre,https://covid.gov.pk/vaccine-details,1,1,0,1,1,1,1,1,0,1,1,0,0
+Palestine,PSE,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/18/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Panama,PAN,"Oxford/AstraZeneca, Pfizer/BioNTech",10/28/22,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,0,0,0,0,1,0,0,0,0,0,1,0,0
+Papua New Guinea,PNG,Oxford/AstraZeneca,10/24/22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Paraguay,PRY,"Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",10/21/22,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,0,1,0,1,1,1,1,1,0,1,1,0,0
+Peru,PER,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",10/22/22,Ministerio de Salud via github.com/jmcastagnetto/covid-19-peru-vacunas,https://www.datosabiertos.gob.pe/dataset/vacunacion,0,0,0,1,1,1,1,0,0,0,1,0,0
+Philippines,PHL,"Covaxin, Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/13/22,Department of Health via ABS-CBN Investigative and Research Group,https://covid19.who.int/,0,1,1,1,1,1,1,1,1,1,1,0,0
+Pitcairn,PCN,Oxford/AstraZeneca,8/29/22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Poland,POL,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/28/22,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19,0,0,1,1,1,0,0,0,0,0,1,0,0
+Portugal,PRT,"Covaxin, Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",10/21/22,World Health Organization,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,0,1,1,1,1,1,1,1,0,0,1,0,0
+Qatar,QAT,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/24/22,Ministry of Public Health,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Romania,ROU,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/16/22,Government of Romania via datelazi.ro,https://covid19.who.int/,0,0,1,1,1,0,0,0,0,0,1,0,0
+Russia,RUS,"EpiVacCorona, Sputnik V",10/27/22,Official data from local governments via gogov.ru,https://gogov.ru/articles/covid-v-stats,0,0,0,0,0,0,0,0,0,1,0,1,0
+Rwanda,RWA,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",10/16/22,World Health Organization,https://covid19.who.int/,0,0,1,1,1,1,1,1,0,1,1,0,0
+Saint Helena,SHN,Oxford/AstraZeneca,5/5/21,Government of Saint Helena,https://www.sainthelena.gov.sh/2021/news/preliminary-data-from-the-covid-19-vaccination-programme/,0,0,0,0,1,0,0,0,0,0,0,0,0
+Saint Kitts and Nevis,KNA,"Oxford/AstraZeneca, Pfizer/BioNTech",8/5/22,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,0,0,0,0,1,0,0,0,0,0,1,0,0
+Saint Lucia,LCA,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/14/22,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,0,0,1,1,1,0,0,0,0,0,1,0,0
+Saint Vincent and the Grenadines,VCT,"Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik Light, Sputnik V",10/21/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,0,1,1,1,0,0
+Samoa,WSM,Oxford/AstraZeneca,10/17/22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,0,0,1,0,0,0,0,0,0,0,0
+San Marino,SMR,"Pfizer/BioNTech, Sputnik V",5/22/22,World Health Organization,https://covid19.who.int/,0,0,0,0,0,0,0,0,0,1,1,0,0
+Sao Tome and Principe,STP,Oxford/AstraZeneca,10/9/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,0,0,0,0,0,0
+Saudi Arabia,SAU,"Oxford/AstraZeneca, Pfizer/BioNTech",9/27/22,Saudi Health Council,https://covid19.who.int/,0,0,0,0,1,0,0,0,0,0,1,0,0
+Scotland,OWID_SCT,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/11/22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,0,0,0,1,1,0,0,0,0,0,1,0,0
+Senegal,SEN,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",10/2/22,World Health Organization,https://covid19.who.int/,0,0,1,0,1,1,1,0,0,0,0,0,0
+Serbia,SRB,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",6/23/22,Government of Serbia,https://vakcinacija.gov.rs/,0,0,0,0,1,1,1,0,0,1,1,0,0
+Seychelles,SYC,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",9/25/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,1,1,0,0,1,0,0,0
+Sierra Leone,SLE,"Oxford/AstraZeneca, Sinopharm/Beijing",10/16/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,1,1,0,0,0,0,0,0
+Singapore,SGP,"Moderna, Novavax, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",10/25/22,Government of Singapore,https://data.gov.sg/dataset/covid-19-vaccination,0,0,0,1,0,1,1,1,0,0,1,0,0
+Sint Maarten (Dutch part),SXM,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/7/22,World Health Organization,https://covid19.who.int/,0,0,0,1,1,0,0,0,0,0,1,0,0
+Slovakia,SVK,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",7/31/22,Ministry of Health,https://github.com/Institut-Zdravotnych-Analyz/covid19-data/raw/main/Vaccination/OpenData_Slovakia_Vaccination_AgeGroup_District.csv,0,0,1,1,1,0,0,0,0,1,1,0,0
+Slovenia,SVN,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",7/6/22,National Institute of Public Health via covid-19.sledilnik.org,https://covid-19.sledilnik.org/sl/stats,0,0,1,1,1,0,0,0,0,0,1,0,0
+Solomon Islands,SLB,Oxford/AstraZeneca,10/24/22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Somalia,SOM,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/20/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+South Africa,ZAF,"Johnson&Johnson, Pfizer/BioNTech",10/30/22,Ministry of Health,https://sacoronavirus.co.za/latest-vaccine-statistics/,0,0,1,0,0,0,0,0,0,0,1,0,0
+South Korea,KOR,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/27/22,Korea Centers for Disease Control and Prevention,https://ncv.kdca.go.kr/,0,0,1,1,1,0,0,0,0,0,1,0,0
+South Sudan,SSD,"Johnson&Johnson, Oxford/AstraZeneca",10/16/22,World Health Organization,https://covid19.who.int/,0,0,1,0,1,0,0,0,0,0,0,0,0
+Spain,ESP,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/13/22,Ministry of Health,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20221014.ods,0,0,1,1,1,0,0,0,0,0,1,0,0
+Sri Lanka,LKA,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",10/19/22,Ministry of Health's Epidemiology Unit,https://covid19.who.int/,0,0,0,1,1,1,1,0,0,1,1,0,0
+Sudan,SDN,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",6/27/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Suriname,SUR,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",5/23/22,Government of Suriname,https://laatjevaccineren.sr/,0,0,0,0,1,1,1,0,0,0,1,0,0
+Sweden,SWE,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/27/22,Public Health Agency of Sweden,https://fohm.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/statistik-over-registrerade-vaccinationer-covid-19/,0,0,0,1,1,0,0,0,0,0,1,0,0
+Switzerland,CHE,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",10/24/22,Federal Office of Public Health,https://opendata.swiss/en/dataset/covid-19-schweiz?detGeo=CH,0,0,1,1,0,0,0,0,0,0,1,0,0
+Syria,SYR,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/16/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Taiwan,TWN,"Medigen, Moderna, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",10/28/22,Taiwan Centers for Disease Control,https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,0,0,0,1,1,0,0,0,0,0,1,0,0
+Tajikistan,TJK,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",8/21/22,World Health Organization,https://covid19.who.int/,0,0,0,1,1,0,0,1,0,1,1,0,0
+Tanzania,TZA,"Johnson&Johnson, Pfizer/BioNTech, Sinopharm/Beijing",10/9/22,World Health Organization,https://covid19.who.int/,0,0,1,0,0,1,1,0,0,0,1,0,0
+Thailand,THA,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",9/30/22,Government of Thailand,https://ddc.moph.go.th/covid19-dashboard/,0,0,0,1,1,1,1,1,0,0,1,0,0
+Timor,TLS,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",10/25/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,1,0,0,1,0,0
+Togo,TGO,Oxford/AstraZeneca,10/16/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,0,0,0,0,0,0
+Tokelau,TKL,Pfizer/BioNTech,10/24/22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Tonga,TON,Oxford/AstraZeneca,8/29/22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Trinidad and Tobago,TTO,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",9/21/22,Ministry of Health,https://services3.arcgis.com/x3I4DqUw3b3MfTwQ/arcgis/rest/services/service_7a519502598f492a9094fd0ad503cf80/FeatureServer/0/query,0,0,1,0,1,1,1,0,0,0,1,0,0
+Tunisia,TUN,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/18/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Turkey,TUR,"Pfizer/BioNTech, Sinovac, Turkovac",10/29/22,COVID-19 Vaccine Information Platform,https://covid19asi.saglik.gov.tr/,0,0,0,0,0,0,0,1,0,0,1,0,0
+Turkmenistan,TKM,"EpiVacCorona, Oxford/AstraZeneca, QazVac, Sinopharm/Beijing, Sputnik V, ZF2001",9/4/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,1,1,0,0,1,0,1,0
+Turks and Caicos Islands,TCA,Pfizer/BioNTech,8/12/22,World Health Organization,https://covid19.who.int/,0,0,0,0,0,0,0,0,0,0,1,0,0
+Tuvalu,TUV,Oxford/AstraZeneca,8/31/22,World Health Organization,https://covid19.who.int/,0,0,0,0,1,0,0,0,0,0,0,0,0
+Uganda,UGA,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",10/9/22,World Health Organization,https://covid19.who.int/,0,0,1,1,1,0,0,1,0,0,1,0,0
+Ukraine,UKR,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",2/27/22,Ministry of Health,https://covid19.who.int/,0,0,1,1,1,0,0,1,0,0,1,0,0
+United Arab Emirates,ARE,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",6/20/22,National Emergency Crisis and Disaster Management Authority,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+United Kingdom,GBR,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/11/22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,0,0,0,1,1,0,0,0,0,0,1,0,0
+United States,USA,"Johnson&Johnson, Moderna, Pfizer/BioNTech",10/25/22,Centers for Disease Control and Prevention,https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2,0,0,1,1,0,0,0,0,0,0,1,0,0
+Uruguay,URY,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",10/29/22,Ministry of Health via vacuna.uy,https://monitor.uruguaysevacuna.gub.uy/,0,0,0,0,1,0,0,1,0,0,1,0,0
+Uzbekistan,UZB,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik Light, Sputnik V, ZF2001",10/9/22,World Health Organization,https://covid19.who.int/,0,0,0,1,1,0,0,1,1,1,1,0,0
+Vanuatu,VUT,Oxford/AstraZeneca,10/24/22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Venezuela,VEN,"Abdala, Sinopharm/Beijing, Sinovac, Soberana02, Sputnik Light, Sputnik V",3/25/22,Pan American Health Organization,https://covid19.who.int/,0,0,0,0,0,1,1,1,1,1,0,0,0
+Vietnam,VNM,"Abdala, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",10/13/22,World Health Organization,https://covid19.who.int/,0,0,0,1,1,1,1,0,0,1,1,0,0
+Wales,OWID_WLS,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10/19/22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,0,0,0,1,1,0,0,0,0,0,1,0,0
+Wallis and Futuna,WLF,Moderna,10/17/22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Yemen,YEM,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10/20/22,World Health Organization,https://covid19.who.int/,1,1,1,1,1,1,1,1,1,1,1,0,0
+Zambia,ZMB,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",10/27/22,Government of Zambia,https://rtc-planning.maps.arcgis.com/apps/dashboards/3b3a01c1d8444932ba075fb44b119b63,0,0,1,0,1,1,1,0,0,0,0,0,0
+Zimbabwe,ZWE,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",10/9/22,Ministry of Health,https://www.arcgis.com/home/webmap/viewer.html?url=https://services9.arcgis.com/DnERH4rcjw7NU6lv/ArcGIS/rest/services/Vaccine_Distribution_Program/FeatureServer&source=sd,0,0,0,0,1,1,1,1,0,1,0,0,0
